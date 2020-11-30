@@ -32,7 +32,6 @@
 ╚═════╝░░╚════╝░╚═╝░░╚═╝
 
 
-
 Copyright (c) 2020 Eugenio Ciullo
 
 Gli sketch in questo repository sono stati creati da Eugenio Ciullo. Verrà creato un Controller HID o emulatore Tastiera.
